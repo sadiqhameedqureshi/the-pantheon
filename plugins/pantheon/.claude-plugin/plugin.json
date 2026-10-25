@@ -1,0 +1,18 @@
+{
+  "name": "pantheon",
+  "version": "1.0.0",
+  "description": "Eleven Claude Code subagents and three commands that take a one-line idea to a deployed, tested, security-audited MVP.",
+  "author": {
+    "name": "Sadiq Abdul Hameed"
+  },
+  "homepage": "https://github.com/sadiqhameedqureshi/the-pantheon",
+  "license": "MIT-0",
+  "keywords": [
+    "agents",
+    "subagents",
+    "sdlc",
+    "mvp",
+    "code-review",
+    "security"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "the-pantheon",
+  "owner": {
+    "name": "Sadiq Abdul Hameed"
+  },
+  "plugins": [
+    {
+      "name": "pantheon",
+      "source": "./plugins/pantheon",
+      "description": "Eleven Claude Code subagents and three commands that take a one-line idea to a deployed, tested, security-audited MVP."
+    }
+  ]
+}
