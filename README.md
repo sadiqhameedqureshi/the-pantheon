@@ -2,6 +2,8 @@
 
 Companion files for the book **The Pantheon: How Eleven AI Agents Turn an Idea into Shipped Software** by Sadiq Abdul Hameed.
 
+**Get the book on Amazon:** [Kindle](https://www.amazon.com/dp/B0HPJQNWWT) · [Hardcover](https://www.amazon.com/dp/B0HPMQM6RV)
+
 Eleven Claude Code subagents, each named after a mythological figure whose domain matches its job, coordinated by three slash commands. Give it a one-line product idea, approve three times (discovery, specs, architecture), and the team builds, tests, reviews and ships an MVP.
 
 | Agent | Job | Model |
@@ -66,7 +68,7 @@ Use the argus agent to audit only the diff on this branch against develop.
 3. **ID-driven handoffs.** `US-001`, `SCR-01`, `EP-01`, `T-A`… Agents grep for IDs instead of reading whole documents.
 4. **Short returns, small context.** Every agent returns at most 10 lines; the orchestrator passes paths and IDs, never file contents.
 
-The book explains why each rule exists, walks through a complete build, and covers customising and troubleshooting the team.
+[The book](https://www.amazon.com/dp/B0HPJQNWWT) explains why each rule exists, walks through a complete build, and covers customising and troubleshooting the team.
 
 ## Caution
 
